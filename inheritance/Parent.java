@@ -7,7 +7,7 @@ public class Parent{
 	public Parent(String name) {
 		System.out.println("Parent(String) Constructor");
 	}
-	public Parent(Inheritance obj) {
+	public Parent() {
 		System.out.println("Parent(Interitance) Constructor");
 	}
 	public void printName() {
